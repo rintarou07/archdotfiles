@@ -1,0 +1,8 @@
+[Default Applications]
+image/png=mpv.desktop
+application/octet-stream=org.gnome.gedit.desktop
+
+[Added Associations]
+image/png=mpv.desktop;
+text/x-devicetree-source=org.gnome.gedit.desktop;
+application/octet-stream=org.gnome.gedit.desktop;
